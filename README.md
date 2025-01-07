@@ -22,3 +22,6 @@ By leveraging AI, Purposync transforms donor prospecting from a time-consuming a
 
 ![PurpoSync  _ Presentation](https://github.com/user-attachments/assets/c0aadcf1-d39b-4cc1-8290-29217c5d0706)
 
+## Demo
+
+![temp_b3c98680419a4957ae77ba5b6092a507](https://github.com/user-attachments/assets/14850ed1-850a-444f-9de1-c6dd20f80cb1)
